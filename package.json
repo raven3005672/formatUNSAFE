@@ -1,0 +1,19 @@
+{
+  "name": "formatunsafe",
+  "version": "0.0.1",
+  "description": "formatUNSAFE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raven3005672/formatUNSAFE.git"
+  },
+  "author": "raven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raven3005672/formatUNSAFE/issues"
+  },
+  "homepage": "https://github.com/raven3005672/formatUNSAFE#readme"
+}
